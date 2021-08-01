@@ -1,0 +1,52 @@
+.sidbarNav{
+    background: #2a3042;
+    width: 267px;
+    height:100vh;
+    position: fixed;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    right:0;
+    padding: 14px;
+    top: 0;
+z-index: 200;
+}
+.sidbarWrap{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    direction:rtl;
+    position: relative;
+    top: 81px;
+}
+.iconsLink{
+    position: absolute;
+    left: 8px;}
+a{
+    display:flex;
+    background: #2a3042;
+    font-family: Yekan !important;
+    text-decoration: none;
+    align-items: center;
+    padding: 20px;
+    height: 50px;
+    font-size: 16px;
+    color: #a6b0cf !important;
+    font-weight: bold;
+
+
+}
+.subnav {
+    transition: 5s;
+    padding: 1px;
+}
+a:hover {
+     text-decoration: none !important;
+    transition: 0.7s;
+    cursor: pointer;
+    color: white !important;
+}
+.spanTitle{padding-right:10px;
+    padding-left: 50px;
+
+}

@@ -1,0 +1,29 @@
+{
+  "RECORDS":
+          [
+            {
+              "name": "ونک ,سالن",
+              "slud": "Ararat,salon",
+              "id": 1,
+              "geometry": {
+                "cordinates": [
+                  51.3933,
+                  35.7118
+
+                ]
+              }
+            },
+            {
+              "name": "آفریقا ,سالن",
+              "slud": "Afriga,salon",
+              "id": 2,
+              "geometry": {
+                "cordinates": [
+                  51.421818,
+                  35.777014
+                ]
+              }
+            }
+
+          ]
+}

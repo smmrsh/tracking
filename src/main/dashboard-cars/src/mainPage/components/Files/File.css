@@ -1,0 +1,27 @@
+.spanFileName{
+    margin-right: 12px !important;
+}
+.spanFileSize{
+    padding-right: 35px !important;
+}
+.spanFileIcon{
+cursor: pointer ;
+    background: #484e53;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    line-height: 15px;
+    padding-right: 2px;
+}
+.spanFileIcon:hover{
+    background: #dc3545;
+}
+.bgUl{
+
+    border: dashed  #6c757d;
+    padding: 20px;
+    background: #484e53;
+    border-width: 2px;
+    border-radius: 2px;
+
+}

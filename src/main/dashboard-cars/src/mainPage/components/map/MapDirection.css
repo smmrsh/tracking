@@ -1,0 +1,109 @@
+.map{
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+}
+.playgroundPreview_1mpV {
+
+    position: relative;
+    padding: 1rem;
+    width: 100%;
+}
+
+.mapGuide{
+    width: 122px;
+    height: 158px;
+    z-index: 500;
+    background: #d8d6d2;
+
+}
+.mapGuideColor{
+    right: 5px;
+    width: 20px;
+    margin-top: 10px;
+    border: solid 3px ;
+    top: 15px;
+
+}
+.mapGuideColor1{
+
+    margin-top: 45px;
+    color: yellow;
+}
+.mapGuideColor2{
+    margin-top: 81px;
+color: green;
+}
+.mapGuideColor3{
+    top: 0px;
+    left: 86px;
+    margin-top: 117px;
+}
+
+.mapGuidetitle{
+    right: 31px;
+    margin-top: 10px;
+    font-size: .7rem;
+}
+.mapGuidetitle1{
+    margin-top: 45px;
+}
+.mapGuidetitle2{
+    margin-top: 81px;
+
+}
+.mapGuidetitle3{
+    margin-top: 117px;
+
+}
+.buttonMap{
+    width: 200px;
+}
+.btnSaveSelectArea{
+    z-index: 100;
+    position: relative;
+    background: white;
+    right: 927px;
+    top: -639px;
+    height: 33px;
+    color: #c1bfba;
+}
+.detailsClickRouteMap{
+    z-index: 1000;
+    height: 43%;
+    width: 32%;
+    margin: auto;
+    left: 40%;
+    top: 19%;
+    transition: 5s text-shadow;
+    padding: 10px;
+    font-size: 1rem;
+    color: white;
+
+}
+@media (width: 767.98px) {
+    .detailsClickRouteMap {
+        left: 0px;
+        width: 303px;
+    }
+}
+@media (max-width: 767.98px) {
+    .detailsClickRouteMap {
+        left: 0px;
+        width: 303px;
+    }
+}
+.iconeClose{
+    font-size: 30px;
+    position: absolute;
+    top: 5px;
+    right: 9px;
+    line-height: 0.5px;
+    height: 30px;
+}
+.iconeClose:hover{
+    background: #dc3545;
+}
+.btnScrollSpy a:hover{
+    background: none;
+}

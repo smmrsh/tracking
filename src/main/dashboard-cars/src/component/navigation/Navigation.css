@@ -1,0 +1,41 @@
+.nav{
+    background:  white;
+    width: 84%;
+    background: white;
+    height: 10vh;
+    font-family: Yekan;
+    line-height: 61px;
+    color:#555b6d !important;
+    position: fixed;
+    font-weight: bold;
+    z-index: 200;
+}
+.btn  .badge {
+    position: relative;
+    top: -10px !important;
+    right: -8px;
+    font-size: 11px;
+}
+.app-search span {
+    position: absolute;
+    z-index: 10;
+    font-size: 16px;
+    line-height: 38px;
+    left: 13px;
+    top: 0;
+    color: #74788d;
+    cursor: pointer;
+}
+.app-search .form-control {
+    border: none;
+    height: 38px;
+    padding-left: 40px;
+    padding-right: 20px;
+    background-color: #f3f3f9;
+    box-shadow: none;
+    border-radius: 30px;
+}
+.app-search div{
+    top: 13px;
+    right: 8px;
+}

@@ -1,0 +1,64 @@
+
+.iconDetails{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.mainDetails{
+    height: 40vh;
+    width: 100%;
+
+}
+.divDetails {
+    width: 0px;
+    transition: width 1s
+}
+
+/* When the input field gets focus, change its width to 100% */
+.divDetails {
+    width: 100%;
+}
+.iconMap{
+    display: inline-block;
+    width: 44px;
+    height: 47px;
+    font-size: 31px;
+    position: absolute;
+    top: 43px;
+    z-index: 199;
+    color: #c1bfba;
+    left: 98px;
+    cursor: pointer;
+    background: WHITE;
+    TEXT-ALIGN: center;
+    line-height: 40px;
+
+}
+.divUnderMap{
+position: relative;
+bottom: 0px;
+z-index: 199;
+background: white;
+transition: bottom 0.5s;
+width: 102%;
+
+}
+.divUnderMap1{
+    position: relative;
+    bottom: 434px;
+    z-index: 199;
+    background: white;
+    transition: bottom 0.5s;
+    width: 102%;
+}
+.btnMy{
+    height:34px !important;
+    width:160px !important;
+    border: none !important;
+    border-radius:0 !important;
+    color:white !important;
+    background:#0078d4 ;
+}
+
+    button.btnMy :hover{
+        background: red;
+    }

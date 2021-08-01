@@ -1,0 +1,106 @@
+ .ab button a{
+    color: white;
+
+}
+ .ab button a:hover {
+     background: none !important;
+ }
+ a:hover{
+     text-decoration: none !important;
+ }
+ .borderless table thead tr{
+border:none;
+  }
+ body {
+     background-color: #ffffff
+ }
+.tableHeight{
+    height: 374% !important;
+}
+ .container {
+     width: 600px;
+     background-color: #fff;
+     padding-top: 100px;
+     padding-bottom: 100px
+ }
+
+ .card {
+     background-color: #fff;
+     width: 300px;
+     border-radius: 15px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+ }
+
+ .name {
+     font-size: 15px;
+     color: #403f3f;
+     font-weight: bold
+ }
+
+ .cross {
+     font-size: 13px;
+     color: #b0aeb7
+ }
+
+ .pin {
+     font-size: 14px;
+     color: #b0aeb7
+ }
+
+ .first {
+     border-radius: 8px;
+     border: 1.5px solid #78b9ff;
+     color: #000;
+     background-color: #eaf4ff
+ }
+
+ .second {
+     border-radius: 8px;
+     border: 1px solid #acacb0;
+     color: #000;
+     background-color: #fff
+ }
+
+ .dot {}
+
+ .head {
+     color: #137ff3;
+     font-size: 12px
+ }
+
+ .dollar {
+     font-size: 18px;
+     color: #097bf7;
+     padding-right: 10px!important;
+ }
+
+ .amount {
+     color: #007bff;
+     font-weight: bold;
+     font-size: 18px
+ }
+
+ .form-control {
+     font-size: 18px;
+     font-weight: bold;
+     width: 60px;
+     height: 28px
+ }
+
+ .back {
+     color: #aba4a4;
+     font-size: 15px;
+     line-height: 73px;
+     font-weight: 400;
+     cursor: pointer;
+
+ }
+ .back  a:hover {
+color: red;
+ }
+ .button {
+     width: 150px;
+     height: 60px;
+     border-radius: 8px;
+     font-size: 17px
+ }
